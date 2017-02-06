@@ -1,0 +1,5 @@
+import matplotlib.pyplot as plt
+import numpy as np
+y = np.arange(5, 25, 0.5)
+plt.plot(y, color='green')
+plt.show()

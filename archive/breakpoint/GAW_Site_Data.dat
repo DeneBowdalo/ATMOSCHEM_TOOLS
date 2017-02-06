@@ -1,0 +1,209 @@
+REF,SITE_NAME,LAT,LON,ALT
+AHT,Ahtari, 62.58, 24.20, 180
+ADR,Adrigole,  51.68,  -9.73, 50
+ALT,Alert,  82.45, -62.52, 210
+ALG,Algoma,  47.03, -84.38, 411
+AMS,Amsterdam Island, -37.80,  77.53, 70
+ANG,Angra do Heroismo,  38.67, -27.22, 74
+AMY,Anmyeon-do,  36.53, 126.32, 46
+ABP,Arembepe, -12.77, -38.17, 0
+AMT,Argyle,  45.03, -68.68, 50
+ARH,Arrival Heights, -77.80, 166.67, 184
+ASC,Ascension Island,  -7.92, -14.42, 91
+ASK,Assekrem,  23.27,   5.63, 2710
+BEO,BEO Moussala,  42.18,  23.59, 2925
+BHD,Baring Head, -41.41, 174.87, 85
+BAO,Boulder, 40.05, -105.01, 1577 
+BRW,Barrow,  71.32,-156.60, 11
+BGU,Begur,  41.97,   3.23, 13
+BEJ,Beja,  38.02,  -7.87, 246
+BER,Bering Island,  55.20, 165.98, 13
+SGI,Bird Island, -54.00, -38.05, 30
+BSC,Black Sea,  44.17,  28.67, 3
+BRG,Braganca,  41.80,  -6.73, 690
+BRA,Bratt's Lake,  50.20,-104.71, 595
+BRT,Brotjacklriegel,  48.82,  13.22, 1016
+BKT,Bukit Koto Tabang,  -0.20, 100.32, 864
+BUR,Burgas,  42.48,  27.48, 16
+CAI,Cairo,  30.08,  31.28, 35
+CDL,Candle Lake,  53.87,-104.65, 489
+CFA,Cape Ferguson, -19.28, 147.05, 2
+CGO,Cape Grim, -40.68, 144.68, 94
+KUM,Cape Kumukahi,  19.52,-154.82, 3
+CMO,Cape Meares,  45.47,-123.97, 30
+COI,Cape Ochi-ishi,  43.15, 145.50, 49
+CPT,Cape Point, -34.35,  18.48, 230
+CRI,Cape Rama,  15.08,  73.83, 60
+CSJ,Cape St. James,  51.93,-131.02, 89
+CVO,Cape Verde Observatory,  16.85, -24.87, 10
+CYA,Casey Station, -66.28, 110.53, 51
+CAS,Castelo Branco,  39.83,  -7.47, 386
+CHA,Chalk River,  46.07, -77.40, 184
+CHM,Chibougamau,  49.68, -74.34, 393
+CHR,Christmas Island,   1.70,-157.17, 3
+CBA,Cold Bay,  55.20,-162.72, 25
+CRZ,Crozet, -46.45,  51.85, 120
+DAK,Danki,  54.90,  37.80, 140
+DMV,Danum Valley GAW Baseline Station,   4.97, 117.83, 426
+DEU,Deuselbach,  49.77,   7.05, 480
+DON,Donana,  37.05,  -6.55, 5
+DBL,Dobele,  56.37,  23.19, 42
+GOZ,Dwejra Point,  36.05,  14.18, 30
+ETL,East Trout Lake,  54.35,-104.98, 492
+EIC,Easter Island, -27.13,-109.45, 41
+EGB,Egbert,  44.23, -79.78, 253
+EDM,Eskdalemuir,  55.32,  -3.20, 242
+ESP,Estevan Point,  49.38,-126.55, 39
+EST,Esther,  51.67,-110.20, 707
+PYR,Everest - Pyramid,  27.96,  86.82, 5079
+ELA,Experimental Lakes Area,  49.67, -93.72, 369
+FIK,Finokalia,  35.34,  25.67, 150
+FSD,Fraserdale,  49.88, -81.57, 210
+FUN,Funchal,  32.65, -16.88, 58
+FDT,Fundata,  45.47,  25.30, 1384
+GLH,Giordan Lighthouse,  36.07,  14.22, 167
+NMB,Gobabeb, -23.57,  15.02, 408
+GSN,Gosan,  33.28, 126.17, 72
+ITN,Grifton,  35.35, -77.38, 505
+GMI,Guam,  13.43, 144.78, 2
+HBA,Halley Bay, -75.57, -26.50, 30
+HMM,Hamamatsu,  34.72, 137.72, 29
+HFM,Harvard Forest,  42.90, -72.30, 340
+HAT,Hateruma,  24.05, 123.80, 10
+HUN,Hegyhatsal,  46.95,  16.65, 248
+HHE,Hohe Warte,  48.25,  16.37, 202
+HPB,Hohenpeissenberg,  47.80,  11.02, 985
+HUA,Huancayo, -12.07, -75.53, 4575
+LPO,Ile Grande,  48.80,  -3.58, 20
+IRB,Iskrba,  45.57,  14.87, 520
+ISK,Issyk-Kul,  42.62,  76.98, 1640
+IVN,Ivan Sedlo,  43.77,  18.03, 970
+IZO,Izana,  28.30, -16.50, 2373
+JKR,Jakarta,  -6.18, 106.83, 7
+JCZ,Jarczew,  51.82,  21.98, 180
+JBN,Jubany, -62.23, -58.67, 15
+JFJ,Jungfraujoch,  46.55,   7.99, 3580
+KPS,K-puszta,  46.97,  19.55, 125
+KCO,Kaashidhoo,   4.97,  73.47, 1
+NZL,Kaitorete Spit, -43.83, 172.63, 3
+KAM,Kamenicki Vis,  43.40,  21.95, 813
+KEJ,Kejimkujik,  44.43, -65.20, 127
+KEY,Key Biscane,  25.67, -80.20, 3
+KIS,Kisai,  36.08, 139.55, 13
+KPA,Kitt Peak,  31.97,-111.60, 2083
+KTB,Kloosterburen,  53.40,   6.42, 0
+KMW,Kollumerwaard,  53.33,   6.28, 0
+KOS,Kosetice,  49.58,  15.08, 534
+KOT,Kotelnj Island,  76.00, 137.87, 5
+KVK,Kovk,  46.12,  15.10, 600
+KVV,Krvavec,  46.30,  14.53, 1720
+KYZ,Kyzylcha,  40.87,  66.15, 340
+CAR,La Cartuja,  37.20,  -3.60, 720
+SIO,La Jolla,  32.83,-117.27, 14
+PLM,La Palma,  22.75, -83.53, 47
+LLB,Lac La Biche,  54.95,-112.45, 540
+LMP,Lampedusa,  35.52,  12.63, 45
+LAU,Lauder, -45.03, 169.67, 370
+LZP,Lazaropole,  41.53,  20.70, 1332
+LEB,Leba,  54.75,  17.53, 2
+LIS,Lisboa,  38.77,  -9.13, 105
+LOG,Logrono,  42.45,  -2.50, 370
+LLN,Lulin,  23.47, 120.87, 2862
+MHD,Mace Head,  53.33,  -9.90, 5
+MQA,Macquarie Island, -54.48, 158.97, 6
+MHN,Mahon,  39.87,   4.32, 78 
+SEY,Mahe Island,  -4.67,  55.17, 3
+MLO,Mauna Loa,  19.54,-155.58, 3397
+MAA,Mawson, -67.62,  62.87, 20
+MCM,McMurdo Station, -77.82, 166.58, 11
+MMB,Memanbetsu,  43.92, 144.20, 33
+MKW,Mikawa-Ichinomiya,  34.85, 137.43, 50
+MNM,Minamitorishima,  24.28, 153.98, 8
+CMN,Monte Cimone,  44.18,  10.70, 2165
+MVH,Monte Velho,  38.08,  -8.80, 43
+WKT,Moody,  31.32, -97.32, 723
+MBC,Mould Bay,  76.25,-119.33, 58
+DDR,Mt. Dodaira,  36.00, 139.18, 840
+MKN,Mt. Kenya,  -0.06,  37.30, 3678
+WLG,Mt. Waliguan,  36.28, 100.90, 3810
+NGY,Nagoya,  35.15, 136.97, 35
+NGL,Neuglobsow,  53.17,  13.03, 62
+NMY,Neumayer, -70.65,  -8.25, 42
+NWR,Niwot Ridge (T-van),  40.05,-105.59, 3523
+NIA,Noia,  42.73,  -8.92, 685
+OXK,Ochsenkopf,  50.03,  11.80, 1185
+OPW,Olympic Peninsula,  48.25,-124.42, 488
+OUX,Oulanka,  66.32,  29.40, 310
+PAL,Pallas-Sammaltunturi,  67.97,  24.12, 560
+PSA,Palmer Station, -64.92, -64.00, 10
+LEF,Park Falls,  45.92, -90.27, 868
+PAY,Payerne,  46.82,   6.95, 490
+PEN,Penhas Douradas,  40.42,  -7.55, 1380
+PDM,Pic du Midi,  42.94,   0.14, 2877
+KZM,Plateau Assy,  43.25,  77.87, 2519
+PRS,Plateau Rosa,  45.93,   7.70, 3480
+PLV,Pleven,  43.42,  24.60, 64
+PLD,Plovdiv,  42.13,  24.75, 304
+PTA,Point Arena,  38.95,-123.72, 17
+DIG,Puszcza Borecka/Diabla Gora,  54.15,  22.07, 157
+PUY,Puy de Dome,  45.77,   2.97, 1465
+RPB,Ragged Point,  13.17, -59.43, 45
+RIG,Rigi,  46.07,   8.45, 1031
+ROQ,Roquetas,  40.82,   0.48, 50
+RCV,Rucava,  56.16,  21.17, 18
+RYO,Ryori,  39.03, 141.82, 260
+WSA,Sable Island,  43.93, -60.02, 4
+SNL,San Lorenzo, -25.37, -57.55, 133
+SPM,San Pablo de los Montes,  39.55,  -4.35, 917
+MID,Sand Island,  28.20,-177.37, 4
+KZD,Sary Taukum,  44.45,  75.57, 412
+SAT,Saturna,  48.78,-123.13, 178
+SSL,Schauinsland,  47.92,   7.92, 1205
+WIS,Sede Boker,  31.12,  34.87, 400
+SEM,Semenic,  45.12,  21.97, 1432
+SDZ,Shangdianzi,  40.65, 117.12, 287
+SHM,Shemya Island,  52.72, 174.08, 40
+SHP,Shepeljovo,  59.97,  29.12, 4
+SNZ,Sniezka,  50.73,  15.73, 1603
+SOF,Sofia,  42.65,  23.38, 588
+SNB,Sonnblick,  47.05,  12.95, 3106
+SPO,South Pole, -89.98, -24.80, 2841
+SGP,Southern Great Plains,  36.78, -97.50, 318
+STN,Stana de Vale,  46.68,  22.62, 1108
+AVI,St. Croix,  17.75, -64.75, 3
+BME,St. David's Head,  32.37, -64.65, 30
+STP,Stephansplatz,  48.22,  16.38, 171
+SUI,Suita,  34.82, 135.52, 63
+SUM,Summit,  72.58, -38.48, 3238
+SWL,Suwalki,  54.13,  22.95, 184
+SYO,Syowa Station, -69.00,  39.58, 21
+TAP,Tae-ahn Peninsula,  36.72, 126.12, 20
+TKY,Takayama,  36.15, 137.42, 1420
+TAR,Tanah Rata,   4.47, 101.38, 1545
+AZR,Terceira Island,  38.77, -27.37, 40
+TER,Teriberka,  69.20,  35.10, 40
+TDF,Tierra del Fuego, -54.87, -68.48, 30
+THD,Trinidad Head,  41.05,-124.15, 107
+TKB,Tsukuba,  36.05, 140.13, 31
+BMW,Tudor Hill,  32.27, -64.87, 30
+SMO,Tutuila (Cape Matatula), -14.24,-170.57, 77
+UUM,Ulaan Uul,  44.45, 111.08, 914
+URW,Urawa,  35.87, 139.60, 10
+USH,Ushuaia, -54.83, -68.30, 18
+UTO,Uto,  59.78,  21.38, 7
+VRN,Varna,  43.20,  27.92, 41
+VDC,Viana do Castelo,  41.70,  -8.80, 16
+VDL,Vindeln,  64.25,  19.77, 225
+VIR,Virolahti,  60.53,  27.67, 4
+LGB,Waldhof,  52.80,  10.77, 74
+WNK,Wank Peak,  47.52,  11.15, 1780
+UTA,Wendover,  39.88,-113.72, 1320
+WBI,West Branch,  41.72, -91.35, 242
+WES,Westerland,  54.93,   8.32, 12
+YON,Yonagunijima,  24.47, 123.02, 30
+ZBL,Zabljak,  43.15,  19.13, 1450
+ZRN,Zavodnje,  46.43,  15.00, 770
+NYA,Zeppelinfjellet (Ny-Alesund),  78.90,  11.88, 0
+ZGT,Zingst,  54.43,  12.73, 1
+ZSN,Zoseni,  57.08,  25.54, 183
+ZSF,Zugspitze,  47.42,  10.98, 2671

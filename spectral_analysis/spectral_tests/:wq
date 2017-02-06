@@ -1,0 +1,73 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import modules
+
+pi2 = np.pi*2.
+mag = 10
+ph = 2.3
+period = 50
+time = np.arange(0,230,1./24)
+waveform = (mag*(np.cos((pi2*time/period)-(ph))))
+
+res_time = np.arange(0,30,1./24)
+res_waveform = (mag*(np.cos((pi2*res_time/period)-(ph))))
+50/
+
+#mag = 5
+#ph = 2.6
+#period=30
+#waveform2 = (mag*(np.cos((pi2*time/period)-(ph))))
+
+#mag = 4
+#ph = 2.5
+#period = 20
+#waveform3 = (mag*(np.cos((pi2*time/period)-(ph))))
+
+#mag = 2
+#ph = 2.4
+#period = 10
+#waveform4 = (mag*(np.cos((pi2*time/period)-(ph))))
+
+#noise = np.random.normal(0,7,len(waveform))
+#waveform = waveform+noise
+
+#noise[0:500] = np.NaN
+
+#waveforma =60+ (waveform+waveform2+waveform3)
+#waveforma =(waveform2)
+
+#waveform[0:600] = np.NaN
+#waveform2[0:600] = np.NaN
+#waveform3[0:600] = np.NaN
+#waveform4[0:600] = np.NaN
+#waveform[2000:4200] = np.NaN
+#waveform2[2000:4200] = np.NaN 
+#waveform3[2000:4200] = np.NaN 
+#waveform4[2000:4200] = np.NaN 
+#time[0:600] = np.NaN
+#time[2000:4200] = np.NaN
+
+#waveform_sum = waveform+waveform2+waveform3+waveform4
+waveform_sum = waveform
+#waveform_sum[0:600] = -9
+#waveform_sum[2000:2200] = -9
+#time = time[waveform_sum >0]
+#waveform_sum = waveform_sum[waveform_sum >0]
+
+print (10**2+5**2+4**2+2**2)/2. , (10**2+5**2)/2. , (4**2+2**2)/2.
+#print (5**2+2.5**2+3**2+1**2)/2.
+
+print np.nanvar(waveform_sum),np.nanvar(waveform)#+np.nanvar(waveform2)+np.nanvar(waveform3)+np.nanvar(waveform4)
+
+
+time = time[~np.isnan(time)]
+waveform_sum = waveform_sum[~np.isnan(waveform_sum)] 
+
+periods,mag,ph,fr,fi,amp_corr = modules.take_lomb(time,waveform_sum,1,1./24.)
+
+print np.sum(mag**2)/2.
+
+periods,key_mag,ph,fr,fi = modules.take_lomb_spec(time,waveform_sum,w=True,key_periods=[10.,20.,30.,50.])
+
+print np.sum(key_mag**2)/2.
+plt.show()

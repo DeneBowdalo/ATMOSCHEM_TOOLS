@@ -1,0 +1,7 @@
+print("5 cubed =", 5**5)
+print("5 squared =", 5*5)
+print("5 divided by 5 =", 5/5)
+print("Remainder of 5 divided by 2 =", 5%2)
+print("Integer of 5 divided by 2 =", 5//2)
+print("5 plus 5 =", 5+5)
+print("5 minus 5 =", 5-5)

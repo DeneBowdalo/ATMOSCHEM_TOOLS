@@ -1,0 +1,19 @@
+#!/bin/bash
+gfortran --version
+date
+for i in *
+do
+    if [ -d $i ]
+    then
+	echo "For directory: $i"
+	cd $i
+	for j in *.f90
+	do
+	    echo $j
+	    gfortran -O2 -Wall -pedantic -std=f95 $j
+	    echo
+	done
+	echo
+	cd ..
+    fi
+done

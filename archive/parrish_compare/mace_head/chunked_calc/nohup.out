@@ -1,0 +1,77 @@
+lomb-phase time 117.467006922
+Traceback (most recent call last):
+  File "chunked_mag_phase_calc.py", line 75, in <module>
+    closest_daily_period_index = min(range(len(model_periods)), key=lambda i: abs(model_periods[i]-daily_period))
+NameError: name 'model_periods' is not defined
+lomb-phase time 115.792823076
+Traceback (most recent call last):
+  File "chunked_mag_phase_calc.py", line 103, in <module>
+    np.save('chunked_mags_phases/LSP/%s_%s/MH_obs_daily_magnitudes'%(start_year,end_year),daily_mag_array)
+  File "/usr/share/anaconda/lib/python2.7/site-packages/numpy/lib/npyio.py", line 429, in save
+    fid = open(file, "wb")
+IOError: [Errno 2] No such file or directory: 'chunked_mags_phases/LSP/1988_1993/MH_obs_daily_magnitudes.npy'
+lomb-phase time 114.765258074
+lomb-phase time 126.894816875
+lomb-phase time 109.423275948
+lomb-phase time 101.329648972
+lomb-phase time 105.44156599
+lomb-phase time 121.232815981
+lomb-phase time 115.463937998
+lomb-phase time 122.160436869
+lomb-phase time 123.511447906
+lomb-phase time 122.636322975
+lomb-phase time 126.692584991
+lomb-phase time 125.582786083
+lomb-phase time 120.327745914
+lomb-phase time 122.01554203
+lomb-phase time 124.183815002
+lomb-phase time 124.349108934
+lomb-phase time 125.090638876
+lomb-phase time 122.274339199
+lomb-phase time 116.717458963
+lomb-phase time 127.338428974
+lomb-phase time 131.029612064
+['chunked_binary_files/MH_O3_SFC_1988_1993.npy', 'chunked_binary_files/MH_O3_SFC_1989_1994.npy', 'chunked_binary_files/MH_O3_SFC_1990_1995.npy', 'chunked_binary_files/MH_O3_SFC_1991_1996.npy', 'chunked_binary_files/MH_O3_SFC_1992_1997.npy', 'chunked_binary_files/MH_O3_SFC_1993_1998.npy', 'chunked_binary_files/MH_O3_SFC_1994_1999.npy', 'chunked_binary_files/MH_O3_SFC_1995_2000.npy', 'chunked_binary_files/MH_O3_SFC_1996_2001.npy', 'chunked_binary_files/MH_O3_SFC_1997_2002.npy', 'chunked_binary_files/MH_O3_SFC_1998_2003.npy', 'chunked_binary_files/MH_O3_SFC_1999_2004.npy', 'chunked_binary_files/MH_O3_SFC_2000_2005.npy', 'chunked_binary_files/MH_O3_SFC_2001_2006.npy', 'chunked_binary_files/MH_O3_SFC_2002_2007.npy', 'chunked_binary_files/MH_O3_SFC_2003_2008.npy', 'chunked_binary_files/MH_O3_SFC_2004_2009.npy', 'chunked_binary_files/MH_O3_SFC_2005_2010.npy', 'chunked_binary_files/MH_O3_SFC_2006_2011.npy', 'chunked_binary_files/MH_O3_SFC_2007_2012.npy', 'chunked_binary_files/MH_O3_SFC_2008_2013.npy']
+lomb-phase time 72.1520791054
+lomb-phase time 75.0720179081
+lomb-phase time 76.2987580299
+lomb-phase time 75.315310955
+lomb-phase time 74.2845740318
+lomb-phase time 74.3520121574
+lomb-phase time 76.3876020908
+lomb-phase time 78.4065368176
+lomb-phase time 77.172935009
+lomb-phase time 79.3377900124
+lomb-phase time 79.384608984
+lomb-phase time 79.7931969166
+lomb-phase time 78.9011509418
+lomb-phase time 80.0922701359
+lomb-phase time 79.1538000107
+lomb-phase time 80.0087089539
+lomb-phase time 80.3459630013
+lomb-phase time 80.4074230194
+lomb-phase time 83.4928708076
+lomb-phase time 82.0764751434
+lomb-phase time 81.0685341358
+['chunked_binary_files/MH_O3_SFC_1988_1993.npy', 'chunked_binary_files/MH_O3_SFC_1989_1994.npy', 'chunked_binary_files/MH_O3_SFC_1990_1995.npy', 'chunked_binary_files/MH_O3_SFC_1991_1996.npy', 'chunked_binary_files/MH_O3_SFC_1992_1997.npy', 'chunked_binary_files/MH_O3_SFC_1993_1998.npy', 'chunked_binary_files/MH_O3_SFC_1994_1999.npy', 'chunked_binary_files/MH_O3_SFC_1995_2000.npy', 'chunked_binary_files/MH_O3_SFC_1996_2001.npy', 'chunked_binary_files/MH_O3_SFC_1997_2002.npy', 'chunked_binary_files/MH_O3_SFC_1998_2003.npy', 'chunked_binary_files/MH_O3_SFC_1999_2004.npy', 'chunked_binary_files/MH_O3_SFC_2000_2005.npy', 'chunked_binary_files/MH_O3_SFC_2001_2006.npy', 'chunked_binary_files/MH_O3_SFC_2002_2007.npy', 'chunked_binary_files/MH_O3_SFC_2003_2008.npy', 'chunked_binary_files/MH_O3_SFC_2004_2009.npy', 'chunked_binary_files/MH_O3_SFC_2005_2010.npy', 'chunked_binary_files/MH_O3_SFC_2006_2011.npy', 'chunked_binary_files/MH_O3_SFC_2007_2012.npy', 'chunked_binary_files/MH_O3_SFC_2008_2013.npy']
+lomb-phase time 70.3999300003
+lomb-phase time 75.5943598747
+lomb-phase time 77.6288361549
+lomb-phase time 77.6242620945
+lomb-phase time 75.4011850357
+lomb-phase time 75.0241389275
+lomb-phase time 77.1632740498
+lomb-phase time 81.0049819946
+lomb-phase time 79.4739470482
+lomb-phase time 80.5182151794
+lomb-phase time 80.3039360046
+lomb-phase time 80.912856102
+lomb-phase time 80.218462944
+lomb-phase time 80.9315450191
+lomb-phase time 81.0215160847
+lomb-phase time 81.9408149719
+lomb-phase time 81.4569699764
+lomb-phase time 81.9504268169
+lomb-phase time 84.0404579639
+lomb-phase time 82.8467230797
+lomb-phase time 83.2486608028

@@ -1,0 +1,35 @@
+#PBS -j oe
+#PBS -V
+#
+#     ncpus is number of hyperthreads - the number of physical core is half of that
+#
+#PBS -N GEOS_4x5
+#PBS -r n
+#
+# Set up email on completion of the run
+#PBS -M denebowdalo+qstat@googlemail.com
+#PBS -m e
+set -x
+
+OMP_WAIT_POLICY=active
+OMP_DYNAMIC=false
+OMP_PROC_BIND=true
+#
+#
+#
+#
+
+#
+export OMP_NUM_THREADS=16
+export F_UFMTENDIAN=big
+export MPSTZ=1024M
+export KMP_STACKSIZE=100000000
+export KMP_LIBRARY=turnaround
+export FORT_BUFFERED=true
+ulimit -s 2000000
+
+
+#
+#change to the directory that the command was issued from
+cd $PBS_O_WORKDIR
+/opt/sgi/mpt/mpt-2.09/bin/omplace ./geos > geos.log

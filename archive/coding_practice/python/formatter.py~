@@ -1,0 +1,16 @@
+def format_2dp(number):
+    print'Number is {0:1.2f}, OK?'.format(number)
+   
+def format_other(number):
+    print'Number is {1:1.2f}, OK?'.format(number)    
+
+import fileinput
+
+
+count=0
+for number in fileinput.input():
+    while count < 2:
+        format_2dp(number)
+        count+=1
+    else:
+        format_other(other)

@@ -1,0 +1,37 @@
+#!/bin/bash
+#PBS -j oe
+#PBS -V
+#
+### set job name
+#PBS -N GFDL_RED
+### set job as non-renewable
+#PBS -r n
+#
+### send me email when job begins
+#PBS -m b
+### send me email when job end
+#PBS -m e
+### send me email when job aborts (with an error)
+###PBS –m a 
+### set job queue
+# PBS -q core32
+
+
+set -x
+
+
+###export OMP_NUM_THREADS=16
+###export F_UFMTENDIAN=big
+###export MPSTZ=1024M
+###export KMP_STACKSIZE=100000000
+###export KMP_LIBRARY=turnaround
+###export FORT_BUFFERED=true
+###ulimit -s 2000000
+
+#change to the directory that the command was issued from
+cd $PBS_O_WORKDIR
+pwd
+echo "Starting python job at `date`"
+python gfdl_grid_test.py  &> log2
+
+echo "Finished python job at `date`"
